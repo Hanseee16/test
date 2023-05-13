@@ -4,8 +4,15 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
+body {
+}
+
+/* navbar */
 
 /* hiro */
-.hiro {
-  background-image: linear-gradient(to bottom, rgb(3, 5, 129), #0305a3);
+.anu {
+  background-color: rgb(6, 0, 88);
+  background-color: #230074;
 }
+
+/* services */
